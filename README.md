@@ -1,5 +1,8 @@
 # xmake-example
 
+## Note:
+this is merged into https://github.com/youngday/xmake-implot
+
 ## local dependent packages
 wei get from github and cmake or xmake ,and installed.
 * cpplinuxserial
